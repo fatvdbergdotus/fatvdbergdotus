@@ -9,6 +9,7 @@
 - [Radboud University Nijmegen](https://github.com/fatvdbergdotus/ru)
   - [Business and Society](https://github.com/fatvdbergdotus/ru/tree/main/business_society)
   - [Ethics and Philosophy](https://github.com/fatvdbergdotus/ru/tree/main/ictsociety)
+  - [Languages and Automata](https://github.com/fatvdbergdotus/ru/blob/main/languages_and_automata/assignment.md)
   - [Strategy and Marketing](https://github.com/fatvdbergdotus/ru/tree/main/strategy_and_marketing)
 - Domain Specific Languages
   - [aDSL](https://github.com/fatvdbergdotus/adsl)
