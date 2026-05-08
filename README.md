@@ -7,8 +7,10 @@
 
 ## Work
 - [Radboud University Nijmegen](https://github.com/fatvdbergdotus/ru)
-  - [Ethics and Philosophy](https://github.com/fatvdbergdotus/ru/tree/main/ictsociety)
   - [Business and Society](https://github.com/fatvdbergdotus/ru/tree/main/business_society)
+  - [Ethics and Philosophy](https://github.com/fatvdbergdotus/ru/tree/main/ictsociety)
+  - [Strategy and Marketing](https://github.com/fatvdbergdotus/ru/tree/main/strategy_and_marketing)
+    
 - [aDSL](https://github.com/fatvdbergdotus/adsl)
 - [iDSL](https://github.com/fatvdbergdotus/idsl)
 - [Dynamic Programming](https://github.com/fatvdbergdotus/dynamic-programming)
