@@ -21,3 +21,6 @@
 ## My credentials
 - [Certificates, diploms and grades](https://github.com/fatvdbergdotus/diploms-and-grades)
 - [Streamlit website](https://github.com/fatvdbergdotus/fvdberguswebsite)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=fatvdbergdotus&color=blue)
