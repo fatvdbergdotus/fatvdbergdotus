@@ -23,5 +23,8 @@ Welcome to the GitHub page of Freek van den Berg — a space where technology, c
 - [Certificates, diploms and grades](https://github.com/fatvdbergdotus/diploms-and-grades)
 - [Streamlit website](https://github.com/fatvdbergdotus/fvdberguswebsite)
 
+## Publications
+Soon to be added.
+
 ## Profile views
 ![Profile Views](https://komarev.com/ghpvc/?username=fatvdbergdotus&color=blue)
