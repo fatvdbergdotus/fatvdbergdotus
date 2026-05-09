@@ -19,5 +19,5 @@
 
 
 ## My credentials
-- [Diploms and grades](https://github.com/fatvdbergdotus/diploms-and-grades)
+- [Certificates, diploms and grades](https://github.com/fatvdbergdotus/diploms-and-grades)
 - [Streamlit website](https://github.com/fatvdbergdotus/fvdberguswebsite)
