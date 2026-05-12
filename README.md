@@ -16,6 +16,7 @@ Welcome to the GitHub page of Freek van den Berg — a space where technology, c
 - Domain Specific Languages
   - [aDSL](https://github.com/fatvdbergdotus/adsl)
   - [iDSL](https://github.com/fatvdbergdotus/idsl)
+  - [QRML](https://qrml.org/) (external link)
 - [Dynamic Programming](https://github.com/fatvdbergdotus/dynamic-programming)
 - [SimPy](https://github.com/fatvdbergdotus/simpy)
 
