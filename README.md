@@ -20,7 +20,7 @@ Welcome to the GitHub page of Freek van den Berg — a space where technology, c
 
 
 ## My credentials
-- [Certificates, diploms and grades](https://github.com/fatvdbergdotus/diploms-and-grades)
+- [Publications, Diplomas, grades and certificates](https://github.com/fatvdbergdotus/diploms-and-grades)
 - [Streamlit website](https://github.com/fatvdbergdotus/fvdberguswebsite)
 
 ## Publications
