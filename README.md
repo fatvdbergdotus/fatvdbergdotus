@@ -10,6 +10,7 @@ Welcome to the GitHub page of Freek van den Berg — a space where technology, c
 - [Radboud University Nijmegen](https://github.com/fatvdbergdotus/ru)
   - [Business and Society](https://github.com/fatvdbergdotus/ru/tree/main/business_society)
   - [Ethics and Philosophy](https://github.com/fatvdbergdotus/ru/tree/main/ictsociety)
+  - [Innovation Management](https://github.com/fatvdbergdotus/ru/blob/main/innovation_management/README.md)
   - [Languages and Automata](https://github.com/fatvdbergdotus/ru/blob/main/languages_and_automata/assignment.md)
   - [Memory (psychology course](https://github.com/fatvdbergdotus/ru/blob/main/memory))
   - [Strategy and Marketing](https://github.com/fatvdbergdotus/ru/tree/main/strategy_and_marketing)
