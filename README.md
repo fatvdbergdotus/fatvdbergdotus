@@ -1,3 +1,5 @@
+(c) 2026 Freek van den Berg. All rights reserved.
+
 # Freek van den Berg's Github
 Welcome to the GitHub page of Freek van den Berg — a space where technology, creativity, and academic exploration come together. Here you’ll find projects, manuals, and experiments in C++, artificial intelligence, dynamic programming, domain-specific languages such as aDSL and iDSL, and simulation tools like SimPy, alongside workshops and professional work. This profile also reflects studies and interests developed at Radboud University Nijmegen, including Business and Society, Ethics and Philosophy, Languages and Automata, and Strategy and Marketing. You can also explore certificates, diplomas, grades, and a Streamlit website that showcase ongoing learning and development. Thanks for visiting, and feel free to explore the repositories, contribute, or connect through shared interests in software engineering, AI, and innovative systems design.
 
