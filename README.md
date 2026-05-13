@@ -4,7 +4,7 @@ Welcome to the GitHub page of Freek van den Berg — a space where technology, c
 ## Manuals
 - [C++](https://github.com/fatvdbergdotus/cplusplus)
 - [Artificial intelligence](https://github.com/fatvdbergdotus/ai)
-- [Workshops](https://github.com/fatvdbergdotus/workshop)
+- [Workshops and Presentations](https://github.com/fatvdbergdotus/workshops-and-presentations)
 
 ## Work
 - [Radboud University Nijmegen](https://github.com/fatvdbergdotus/ru)
