@@ -28,6 +28,7 @@ Welcome to the GitHub page of Freek van den Berg — a space where technology, c
 
 ## My credentials
 - [Publications, Diplomas, grades and certificates](https://github.com/fatvdbergdotus/diploms-and-grades)
+  - [Udemy Certificates](https://github.com/fatvdbergdotus/diploms-and-grades/blob/main/udemy/README.md)
 - [Streamlit website](https://github.com/fatvdbergdotus/fvdberguswebsite)
 
 ## Profile views
