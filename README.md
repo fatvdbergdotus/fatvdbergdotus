@@ -16,7 +16,7 @@ Welcome to the GitHub page of Freek van den Berg — a space where technology, c
   - [Knowledge Management](https://github.com/fatvdbergdotus/ru/blob/main/knowledge_management/tutorial.md)
   - [Languages and Automata](https://github.com/fatvdbergdotus/ru/blob/main/languages_and_automata/assignment.md)
   - [Man Machine Interaction](https://github.com/fatvdbergdotus/ru/blob/main/man_machine_interaction.pdf)
-  - [Memory (psychology course](https://github.com/fatvdbergdotus/ru/blob/main/memory))
+  - [Memory (psychology course)](https://github.com/fatvdbergdotus/ru/blob/main/memory)
   - [Strategy and Marketing](https://github.com/fatvdbergdotus/ru/tree/main/strategy_and_marketing)
 - Domain Specific Languages
   - [aDSL](https://github.com/fatvdbergdotus/adsl)
