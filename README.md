@@ -23,7 +23,9 @@ Welcome to the GitHub page of Freek van den Berg — a space where technology, c
   - [iDSL](https://github.com/fatvdbergdotus/idsl)
   - [QRML](https://qrml.org/) (external link)
 - [Dynamic Programming](https://github.com/fatvdbergdotus/dynamic-programming)
-- [SimPy](https://github.com/fatvdbergdotus/simulation)
+- [Simulation](https://github.com/fatvdbergdotus/simulation)
+  - [PhD thesis chapter 4](https://github.com/fatvdbergdotus/simulation/phd_thesis)
+  - [Fictional printer costs](https://github.com/fatvdbergdotus/simulation/printer_costs)
 
 
 ## My credentials
