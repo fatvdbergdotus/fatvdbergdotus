@@ -23,7 +23,7 @@ Welcome to the GitHub page of Freek van den Berg — a space where technology, c
   - [iDSL](https://github.com/fatvdbergdotus/idsl)
   - [QRML](https://qrml.org/) (external link)
 - [Dynamic Programming](https://github.com/fatvdbergdotus/dynamic-programming)
-- [SimPy](https://github.com/fatvdbergdotus/simpy)
+- [SimPy](https://github.com/fatvdbergdotus/simulation)
 
 
 ## My credentials
