@@ -11,6 +11,7 @@ Welcome to the GitHub page of Freek van den Berg — a space where technology, c
 ## Work
 - [Radboud University Nijmegen](https://github.com/fatvdbergdotus/ru)
   - [Business and Society](https://github.com/fatvdbergdotus/ru/tree/main/business_society)
+  - [Business rules](https://github.com/fatvdbergdotus/ru/blob/main/business_rules_final_paper.pdf)
   - [Ethics and Philosophy](https://github.com/fatvdbergdotus/ru/tree/main/ictsociety)
   - [Innovation Management](https://github.com/fatvdbergdotus/ru/blob/main/innovation_management/README.md)
   - [Knowledge Management](https://github.com/fatvdbergdotus/ru/blob/main/knowledge_management/tutorial.md)
