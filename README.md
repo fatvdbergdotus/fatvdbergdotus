@@ -18,7 +18,7 @@ Welcome to the GitHub page of Freek van den Berg — a space where technology, c
   - [Man Machine Interaction](https://github.com/fatvdbergdotus/ru/blob/main/man_machine_interaction.pdf)
   - [Memory (psychology course)](https://github.com/fatvdbergdotus/ru/blob/main/memory)
   - [Strategy and Marketing](https://github.com/fatvdbergdotus/ru/tree/main/strategy_and_marketing)
-- Domain Specific Languages
+- [Domain Specific Languages](https://github.com/fatvdbergdotus/dsl)
   - [aDSL](https://github.com/fatvdbergdotus/adsl)
   - [iDSL](https://github.com/fatvdbergdotus/idsl)
   - [QRML](https://qrml.org/) (external link)
