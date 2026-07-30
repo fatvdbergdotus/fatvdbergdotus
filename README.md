@@ -23,6 +23,7 @@ Welcome to the GitHub page of Freek van den Berg — a space where technology, c
   - [aDSL](https://github.com/fatvdbergdotus/adsl)
   - [iDSL](https://github.com/fatvdbergdotus/idsl)
   - [QRML](https://qrml.org/) (external link)
+  - [Jetbrains MPS hobby projects](https://github.com/fatvdbergdotus/jetbrains-mps)
 - [Dynamic Programming](https://github.com/fatvdbergdotus/dynamic-programming)
 - [Simulation](https://github.com/fatvdbergdotus/simulation)
   - [PhD thesis chapter 4](https://github.com/fatvdbergdotus/simulation/tree/main/phd_thesis)
