@@ -28,6 +28,7 @@ Welcome to the GitHub page of Freek van den Berg — a space where technology, c
 - [Simulation](https://github.com/fatvdbergdotus/simulation)
   - [PhD thesis chapter 4](https://github.com/fatvdbergdotus/simulation/tree/main/phd_thesis)
   - [Fictional printer costs](https://github.com/fatvdbergdotus/simulation/tree/main/printer_costs)
+- [Python automation](https://github.com/fatvdbergdotus/python-automation)
 
 
 ## My credentials
