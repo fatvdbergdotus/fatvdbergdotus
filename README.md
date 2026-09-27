@@ -6,7 +6,7 @@ Welcome to the GitHub page of Freek van den Berg — a space where technology, c
 ## Manuals
 - [C++](https://github.com/fatvdbergdotus/cplusplus)
 - [Artificial intelligence](https://github.com/fatvdbergdotus/ai)
-  - [Data science glossary](https://github.com/fatvdbergdotus/ai/data_science/glossary.md)
+  - [Data science glossary](https://github.com/fatvdbergdotus/ai/tree/main/data_science/glossary.md)
 - [Workshops, Presentations and Posters](https://github.com/fatvdbergdotus/workshops-and-presentations)
 
 ## Work
