@@ -31,6 +31,7 @@ Welcome to the GitHub page of Freek van den Berg — a space where technology, c
   - [Fictional printer costs](https://github.com/fatvdbergdotus/simulation/tree/main/printer_costs)
   - [Projectile simulator with different forces](https://github.com/fatvdbergdotus/tno-simulation)
 - [Python automation](https://github.com/fatvdbergdotus/python-automation)
+- [R](https://github.com/fatvdbergdotus/r)
 
 
 ## My credentials
