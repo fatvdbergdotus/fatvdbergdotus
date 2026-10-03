@@ -22,6 +22,7 @@ Welcome to the GitHub page of Freek van den Berg — a space where technology, c
   - [Strategy and Marketing](https://github.com/fatvdbergdotus/ru/tree/main/strategy_and_marketing)
 - [Domain Specific Languages](https://github.com/fatvdbergdotus/dsl)
   - [aDSL](https://github.com/fatvdbergdotus/adsl)
+  - [biLANG](https://github.com/fatvdbergdotus/bilang)
   - [iDSL](https://github.com/fatvdbergdotus/idsl)
   - [QRML](https://qrml.org/) (external link)
   - [Jetbrains MPS hobby projects](https://github.com/fatvdbergdotus/jetbrains-mps)
