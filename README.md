@@ -7,7 +7,7 @@ Welcome to the GitHub page of Freek van den Berg — a space where technology, c
 - [C++](https://github.com/fatvdbergdotus/cplusplus)
 - [Java](https://github.com/fatvdbergdotus/java)
   - [Design Patterns](https://github.com/fatvdbergdotus/java/tree/main/designpatterns)
-- [Education](https://github.com/fatvdbergdotus/education/blob/main/README.md)
+- [Education Portfolio](https://github.com/fatvdbergdotus/education/blob/main/README.md)
 - [Artificial intelligence](https://github.com/fatvdbergdotus/ai)
   - [Data science glossary](https://github.com/fatvdbergdotus/ai/tree/main/data_science/glossary.md)
 - [Workshops, Presentations and Posters](https://github.com/fatvdbergdotus/workshops-and-presentations)
